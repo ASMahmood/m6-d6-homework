@@ -12,6 +12,9 @@
 
 # HOMEWORK PART 2
 
+ ** IMPORTANT : WRITE YOUR SQL QUERIES IN A FILE answers.sql and run test your queries on pg admin , tutors will check your answers.sql file to see your  answers ** 
+
+
 - Write a query to select all the customers from Germany
 
 - Update all customers who has UK value in country field, set their country as United Kingdom
