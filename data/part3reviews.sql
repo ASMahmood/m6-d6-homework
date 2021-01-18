@@ -1,0 +1,7 @@
+
+CREATE TABLE IF NOT EXISTS
+     reviews(
+        reviewID INTEGER PRIMARY KEY GENERATED ALWAYS AS IDENTITY,
+        text VARCHAR (100) NOT NULL,
+        reviewer VARCHAR (700) NOT NULL
+)
